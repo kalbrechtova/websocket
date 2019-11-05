@@ -1,0 +1,47 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+    <div>
+        <div class="col-md-3"></div>
+
+        <div class="jumbotron col-md-6">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">ISIC NUMBER</label>
+                    <input type="number" class="form-control" id="isicNumber" aria-describedby="numberHelp" placeholder="Enter number">
+                    <button onclick="SendMessage()" type="submit" class="btn-dark">Submit</button>
+                </div>
+        </div>
+    </div>
+    <div>
+        <h1>ISIC ID's</h1>
+        <ul id="ids">
+        </ul>
+    </div>
+
+<script>
+    var uri = "ws://localhost:13251/ws";
+    var socket;
+    socket = new WebSocket(uri);
+
+    socket.onopen = function (e) { console.log("Socket is open"); };
+    socket.onclose = function (e) { console.log("Socket is close"); };
+    socket.onmessage = function (e) {
+        console.log("message: " + e.data);
+        addToList(e);
+    };
+
+    function SendMessage() {
+        var data = document.getElementById("isicNumber").value;
+        socket.send(data);
+    }
+
+    function addToList(e) {
+        var ul = document.getElementById("ids");
+        var li = document.createElement("li");
+        li.appendChild(document.createTextNode(e.data));
+        ul.appendChild(li);
+    }
+</script>

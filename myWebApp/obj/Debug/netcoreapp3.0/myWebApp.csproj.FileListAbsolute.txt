@@ -1,0 +1,105 @@
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.exe
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.deps.json
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.runtimeconfig.json
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.runtimeconfig.dev.json
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.dll
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.pdb
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.Views.dll
+C:\Users\kate\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.Views.pdb
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.csprojAssemblyReference.cache
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\staticwebassets\myWebApp.StaticWebAssets.Manifest.cache
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\staticwebassets\myWebApp.StaticWebAssets.xml
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorAssemblyInfo.cache
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorAssemblyInfo.cs
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.AssemblyInfoInputs.cache
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.AssemblyInfo.cs
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.TagHelpers.input.cache
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.TagHelpers.output.cache
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorCoreGenerate.cache
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.Views.pdb
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.dll
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.pdb
+C:\Users\kate\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.csproj.CopyComplete
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.csprojAssemblyReference.cache
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\staticwebassets\myWebApp.StaticWebAssets.Manifest.cache
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\staticwebassets\myWebApp.StaticWebAssets.xml
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorAssemblyInfo.cache
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorAssemblyInfo.cs
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.AssemblyInfoInputs.cache
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.AssemblyInfo.cs
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.dll
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.pdb
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.exe
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.deps.json
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.runtimeconfig.json
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.runtimeconfig.dev.json
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.dll
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.pdb
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.Views.dll
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.Views.pdb
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.TagHelpers.input.cache
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.TagHelpers.output.cache
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorCoreGenerate.cache
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.Views.pdb
+C:\Users\Mawerickk\Desktop\Nová složka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.csproj.CopyComplete
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.exe
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.deps.json
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.runtimeconfig.json
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.runtimeconfig.dev.json
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.dll
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.pdb
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.Views.dll
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\bin\Debug\netcoreapp3.0\myWebApp.Views.pdb
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.csprojAssemblyReference.cache
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\staticwebassets\myWebApp.StaticWebAssets.Manifest.cache
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\staticwebassets\myWebApp.StaticWebAssets.xml
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorAssemblyInfo.cache
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorAssemblyInfo.cs
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.AssemblyInfoInputs.cache
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.AssemblyInfo.cs
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.TagHelpers.input.cache
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.TagHelpers.output.cache
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorCoreGenerate.cache
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.Views.pdb
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.dll
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.pdb
+C:\Users\kate\Desktop\UsingWebSocketsDemo\1 stránka\myWebApp\obj\Debug\netcoreapp3.0\myWebApp.csproj.CopyComplete
